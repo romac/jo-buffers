@@ -1,0 +1,20 @@
+{
+  "name": "chronic-buffers",
+  "version": "0.0.1",
+  "description": "A port to JavaScript of ClojureScript core.async buffers",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/romac/chronic-buffers"
+  },
+  "keywords": [],
+  "author": "Romain Ruetschi (romain.ruetschi@gmail.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-util": "~2.2.13",
+    "gulp": "~3.5.0",
+    "gulp-browserify": "~0.4.0",
+    "gulp-concat": "~2.1.7"
+  }
+}
