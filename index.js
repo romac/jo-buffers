@@ -12,5 +12,6 @@ module.exports = {
   dropping: DroppingBuffer.create,
   sliding: SlidingBuffer.create,
   fixed: FixedBuffer.create,
-  ring: RingBuffer.create
+  ring: RingBuffer.create,
+  default: FixedBuffer.create
 };
