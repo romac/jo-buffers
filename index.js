@@ -1,4 +1,6 @@
 
+'use strict';
+
 var DroppingBuffer = require('./lib/DroppingBuffer'),
     SlidingBuffer = require('./lib/SlidingBuffer'),
     FixedBuffer = require('./lib/FixedBuffer'),
