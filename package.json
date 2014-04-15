@@ -1,6 +1,6 @@
 {
   "name": "jo-buffers",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A port to JavaScript of ClojureScript core.async buffers",
   "main": "index.js",
   "scripts": {},
