@@ -1,6 +1,6 @@
 {
   "name": "jo-buffers",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A port to JavaScript of ClojureScript core.async buffers",
   "main": "index.js",
   "scripts": {},
@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "Romain Ruetschi (romain.ruetschi@gmail.com)",
-  "license": "MIT",
+  "license": "EPL",
   "devDependencies": {
     "gulp-util": "^2.2.14",
     "gulp": "^3.6.0",
