@@ -1,5 +1,5 @@
 
-# [jo-buffers](https://romac.me/projects/jo-buffers)  [![Build Status](https://travis-ci.org/romac/jo-buffers.png?branch=master)](https://travis-ci.org/romac/jo-buffers)
+# [jo-buffers](https://romac.me/projects/jo-buffers)
 
 > A port to JavaScript of ClojureScript's core.async buffers.
 
