@@ -1,5 +1,5 @@
 
-# [jo-buffers](https://romac.me/projects/jo-buffers)
+# jo-buffers
 
 > A port to JavaScript of ClojureScript's core.async buffers.
 
